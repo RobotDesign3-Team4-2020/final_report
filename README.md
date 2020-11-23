@@ -12,6 +12,8 @@
  これで清潔なうんこになるんだ…
  <img src= "https://github.com/RobotDesign3-Team4-2020/interim_report/blob/master/img/picture4.png" width="400" >
  <img src= "https://github.com/RobotDesign3-Team4-2020/interim_report/blob/master/img/picture5.png" width="400" >
+ <img src= "https://github.com/RobotDesign3-Team4-
+2020/interim_report/blob/master/img/IMG_1985.jpg" width="400" >
  わーい！綺麗になったよ！
  こうしてcrane-x7くんは清潔なうんこくんと仲良く暮らしましたとさ
  
@@ -55,8 +57,11 @@
  　　⇨ 早めにコードを書き換えてTAと連絡を取り合い実機で調整する回数を増やす
 
 ### タスク
-1. RealSenseの使い方の学習 
-2. 発表資料作成
+1.　Realsensaにimageを受け取りデータとして送るノードの作成  
+2.　うんこを認識するノードの作成  
+3.　うんこを移動して消毒するノードの作成  
+4.　タオルで拭く動作の作成  
+5.　最終発表の資料作成  
 
  
 ### スケジュール/担当
