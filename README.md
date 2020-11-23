@@ -61,7 +61,7 @@
 
  
 ### スケジュール/担当
-| 内容 |　最終発表資料の作成 | アームを拭く動作 | Realsensaにimageを受け取りデータとして送るノード|うんこを認識するノード|うんこを移動して消毒するノード|
+| 内容 |　最終発表資料の作成 | ハンドを拭く動作 | Realsensaにimageを受け取りデータとして送るノード|うんこを認識するノード|うんこを移動して消毒するノード|
 | :--: | :-----------: |:-------------: | :-----------: |:-------------: |:-------------: |
 | 担当 | [Mitsuike](https://github.com/SomaMitsuike), [Nakajima](https://github.com/Isamu-Nakajima) | 左同 | [Ikeda](https://github.com/ikeda-hitomi), [Sakamoto](https://github.com/Sakamoto-Takaya), [Kamioka](https://github.com/rlove1023), [Shu](https://github.com/shukouki)| 左同 | 左同 |
 | 期日 | 12/20 | 12/7 | 11/30 | 11/30 | 12/7|
