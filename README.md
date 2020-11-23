@@ -13,7 +13,7 @@
  <img src= "https://github.com/RobotDesign3-Team4-2020/interim_report/blob/master/img/picture4.png" width="400" >
  <img src= "https://github.com/RobotDesign3-Team4-2020/interim_report/blob/master/img/picture5.png" width="400" >
  <img src= "https://github.com/RobotDesign3-Team4-
-2020/interim_report/img/6496F53A-34B9-4420-A7D8-41AB6B31432F.png" width="400">
+2020/interim_report/blob/master/img/6496F53A-34B9-4420-A7D8-41AB6B31432F.png" width="400">
  わーい！綺麗になったよ！
  こうしてcrane-x7くんは清潔なうんこくんと仲良く暮らしましたとさ
  
