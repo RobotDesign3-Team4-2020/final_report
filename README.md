@@ -3,8 +3,9 @@
 ## ロボットアームと消毒スプレーによるうんこの消毒
 ### 動機
  <img src= "https://user-images.githubusercontent.com/72371336/99922881-2f6d1180-2d76-11eb-8f82-2cab2aff505c.png" width="400" >
+ 何か消毒するものないかなー
  <img src= "https://github.com/RobotDesign3-Team4-2020/interim_report/blob/master/img/picture1.png" width="400" >
- あ！うんこがいるよ！消毒しなきゃ！
+ あ！うんこだ！消毒しなきゃ！
  <img src= "https://github.com/RobotDesign3-Team4-2020/interim_report/blob/master/img/picture2.png" width="400" >
  君こっち来いよ！
  <img src= "https://github.com/RobotDesign3-Team4-2020/interim_report/blob/master/img/picture3.png" width="400" >
@@ -25,7 +26,11 @@
   - rviz
 - Inventor
 - うんこ
-- アルコールスプレー
+- アルコールスプレー 
+
+### 前回の反省を活かして 
+
+- ハンドを消毒するべきでは？⇨タオルでハンドを拭く動作を追加する 
 
 ### システム構成    
 
@@ -36,11 +41,8 @@
 2． スプレーの噴射口の下にうんこを移動する  
 3． うんこを置く  
 4． スプレーの上部にアームを移動させる  
-5． 垂直に任意の高さまでアームを下げ,アルコールを噴射させる  
-
-### タスク
-1. RealSenseの使い方の学習 
-2. 発表資料作成
+5． 垂直に任意の高さまでアームを下げ,アルコールを噴射させる 
+6.  タオルでハンドを拭く 
 
 ### 想定される問題について
 
@@ -48,6 +50,12 @@
   - 実機と仮想空間で座標に差が生じる  
     - 開発をTAと連携できる時間外におこなうことですり合わせの時間を確保する  
 - 実機で調整するのが難しい
+- 画像認識の調整が難しい 
+
+### タスク
+1. RealSenseの使い方の学習 
+2. 発表資料作成
+
  
 ### スケジュール/担当
 | 内容 | git学習　最終発表資料の作成 | プログラムコードにRealSenseを組み込む|
