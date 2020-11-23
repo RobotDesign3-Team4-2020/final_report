@@ -2,11 +2,17 @@
 
 ## ロボットアームと消毒スプレーによるうんこの消毒
 ### 動機
+ <img src= "https://user-images.githubusercontent.com/72371336/99922881-2f6d1180-2d76-11eb-8f82-2cab2aff505c.png" width="400" >
  <img src= "https://github.com/RobotDesign3-Team4-2020/interim_report/blob/master/img/picture1.png" width="400" >
+ あ！うんこがいるよ！消毒しなきゃ！
  <img src= "https://github.com/RobotDesign3-Team4-2020/interim_report/blob/master/img/picture2.png" width="400" >
+ 君こっち来いよ！
  <img src= "https://github.com/RobotDesign3-Team4-2020/interim_report/blob/master/img/picture3.png" width="400" >
+ これで清潔なうんこになるんだ…
  <img src= "https://github.com/RobotDesign3-Team4-2020/interim_report/blob/master/img/picture4.png" width="400" >
  <img src= "https://github.com/RobotDesign3-Team4-2020/interim_report/blob/master/img/picture5.png" width="400" >
+ わーい！綺麗になったよ！
+ こうしてcrane-x7くんは清潔なうんこくんと仲良く暮らしましたとさ
  
 ### 何が面白いか
 - うんこが消毒される
@@ -41,6 +47,7 @@
 - アームの移動  
   - 実機と仮想空間で座標に差が生じる  
     - 開発をTAと連携できる時間外におこなうことですり合わせの時間を確保する  
+- 実機で調整するのが難しい
  
 ### スケジュール/担当
 | 内容 | git学習　最終発表資料の作成 | プログラムコードにRealSenseを組み込む|
