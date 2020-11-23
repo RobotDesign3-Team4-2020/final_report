@@ -61,10 +61,10 @@
 
  
 ### スケジュール/担当
-| 内容 | git学習 |　最終発表資料の作成 | Realsensaにimageを受け取りデータとして送るノード|うんこを認識するノード|うんこを移動して消毒するノード|
-| :--: | :-------------: | :-----------: |:-------------: | :-----------: |:-------------: |
+| 内容 |　最終発表資料の作成 | Realsensaにimageを受け取りデータとして送るノード|うんこを認識するノード|うんこを移動して消毒するノード|
+| :--: | :-----------: |:-------------: | :-----------: |:-------------: |
 | 担当 | [Mitsuike](https://github.com/SomaMitsuike), [Nakajima](https://github.com/Isamu-Nakajima) | [Ikeda](https://github.com/ikeda-hitomi), [Sakamoto](https://github.com/Sakamoto-Takaya), [Kamioka](https://github.com/rlove1023), [Shu](https://github.com/shukouki)|
-| 期日 | 12/7 | 12/20 | 11/30 | 11/30 | 12/7|
+| 期日 | 12/20 | 11/30 | 11/30 | 12/7|
 
 なお担当の作業が終わり次第,次に近い期日の作業を手伝うこととする
 
