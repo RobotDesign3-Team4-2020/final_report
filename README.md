@@ -38,9 +38,9 @@
 - アルコールスプレー 
 
 
-### システム構成    
+### 画像認識の方法    
 
-<img src= "https://user-images.githubusercontent.com/71888687/99880229-8fb86200-2c55-11eb-99f5-825373c5c5c0.png" width="400" >
+
  
 ### プログラム動作
 1． RealSenseで座標を読み取りうんこを掴む  
