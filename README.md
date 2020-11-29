@@ -53,7 +53,13 @@
 6． アルコールを噴射させる     
 ex) タオルでハンドを拭く
 
+
+
 ### 画像認識の方法    
+ <img src= "https://github.com/RobotDesign3-Team4-2020/interim_report/blob/master/img/picture13.png" width="400" >
+ <img src= "https://github.com/RobotDesign3-Team4-2020/interim_report/blob/master/img/picture14.png" width="400" >
+ <img src= "https://github.com/RobotDesign3-Team4-2020/interim_report/blob/master/img/picture15.png" width="400" >
+
 
 
 ### 想定される問題について
