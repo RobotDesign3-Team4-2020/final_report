@@ -7,9 +7,8 @@
  <img src= "https://github.com/RobotDesign3-Team4-2020/interim_report/blob/master/img/picture10.png" width="400" >
  あ！うんこだ！消毒しなきゃ！
   <img src= "https://github.com/RobotDesign3-Team4-2020/interim_report/blob/master/img/picture11.png" width="400" >
- あ！うんこだ！消毒しなきゃ！
   <img src= "https://github.com/RobotDesign3-Team4-2020/interim_report/blob/master/img/picture12.png" width="400" >
- あ！うんこだ！消毒しなきゃ！
+ ノズルの向きを変えて！
  <img src= "https://github.com/RobotDesign3-Team4-2020/interim_report/blob/master/img/picture2.png" width="400" >
  君こっち来いよ！
  <img src= "https://github.com/RobotDesign3-Team4-2020/interim_report/blob/master/img/picture3.png" width="400" >
