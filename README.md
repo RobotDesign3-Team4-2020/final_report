@@ -71,7 +71,7 @@ ex) タオルでハンドを拭く
 
  
 ### スケジュール/担当
-| 内容 |Realsenseにimageを受け取りデータとして送るノード | うんこを認識するノード | うんこを移動して消毒するノード | タオルで拭く動作 |最終発表の資料作成 |
+| 内容 |ノズルを判別して回すノード | ノズルを判別して回すノード　| うんこを移動して消毒するノード | タオルで拭く動作 |最終発表の資料作成 |
 | :--: | :-----------: |:-------------: | :-----------: |:-------------: |:-------------: |
 | 担当 |[Ikeda](https://github.com/ikeda-hitomi), [Sakamoto](https://github.com/Sakamoto-Takaya), [Kamioka](https://github.com/rlove1023), [Shu](https://github.com/shukouki)| 左同 |左同 | [Mitsuike](https://github.com/SomaMitsuike), [Nakajima](https://github.com/Isamu-Nakajima) | 左同 |
 | 期日 | 11/30 | 11/30 | 12/7 | 12/7 | 12/20|
