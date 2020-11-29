@@ -55,10 +55,10 @@ ex) タオルでハンドを拭く
 
 
 
-### 画像認識の方法    
- <img src= "https://github.com/RobotDesign3-Team4-2020/interim_report/blob/master/img/picture13.png" width="400" >
+### アルコールボトルの認識とノズル角度修正の方法    
  <img src= "https://github.com/RobotDesign3-Team4-2020/interim_report/blob/master/img/picture14.png" width="400" >
  <img src= "https://github.com/RobotDesign3-Team4-2020/interim_report/blob/master/img/picture15.png" width="400" >
+ <img src= "https://github.com/RobotDesign3-Team4-2020/interim_report/blob/master/img/picture13.png" width="400" >
 
 
 
