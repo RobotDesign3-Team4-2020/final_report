@@ -58,7 +58,7 @@ ex) タオルでハンドを拭く
 
 ### アルコールボトルの認識とノズル角度修正の方法    
  <img src= "https://github.com/RobotDesign3-Team4-2020/interim_report/blob/master/img/picture16.png" width="400" >
- 輪郭を収納する配列を作りfindContours関数を用いて輪郭の集合を収納  
+ 輪郭を収納する配列を作りfindContours関数を用いて輪郭の集合を収納。   
  アームを移動させて、赤い円の輪郭を探してアルコールボトルを捜索
  <img src= "https://github.com/RobotDesign3-Team4-2020/interim_report/blob/master/img/picture17.png" width="400" >
  <img src= "https://github.com/RobotDesign3-Team4-2020/interim_report/blob/master/img/picture18.png" width="400" >
