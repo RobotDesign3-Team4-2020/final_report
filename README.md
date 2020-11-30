@@ -40,6 +40,7 @@
   - Gazebo
   - rviz
 - Inventor
+- OpenCV
 - うんこ
 - アルコールスプレー 
 
@@ -60,6 +61,7 @@ ex) タオルでハンドを拭く
   <img src= "https://github.com/RobotDesign3-Team4-2020/interim_report/blob/master/img/picture17.png" width="400" >
  <img src= "https://github.com/RobotDesign3-Team4-2020/interim_report/blob/master/img/picture18.png" width="400" >
  <img src= "https://github.com/RobotDesign3-Team4-2020/interim_report/blob/master/img/picture13.png" width="400" >
+ ※moveIt!を使用して決められた角度まで手首を回す。
 
 
 
