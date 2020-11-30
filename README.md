@@ -67,6 +67,8 @@ ex) タオルでハンドを拭く
  
  RGB画像から色を認識する関数(去年のもの)を使用して赤であるならば、アルコールの座標として記録
  
+ 赤い円の中心を測定する方法は未調査
+ 
  <img src= "https://github.com/RobotDesign3-Team4-2020/interim_report/blob/master/img/picture17.png" width="400" >
  <img src= "https://github.com/RobotDesign3-Team4-2020/interim_report/blob/master/img/picture18.png" width="400" >
  <img src= "https://github.com/RobotDesign3-Team4-2020/interim_report/blob/master/img/picture13.png" width="400" >
