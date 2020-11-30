@@ -82,7 +82,7 @@ ex) タオルでハンドを拭く
 | 内容 |ノズルを判別して回すノード | ノズルを判別して回すノード　| うんこを移動して消毒するノード | タオルで拭く動作 |最終発表の資料作成 |
 | :--: | :-----------: |:-------------: | :-----------: |:-------------: |:-------------: |
 | 担当 |[Ikeda](https://github.com/ikeda-hitomi), [Sakamoto](https://github.com/Sakamoto-Takaya), [Kamioka](https://github.com/rlove1023), [Shu](https://github.com/shukouki)| 左同 |左同 | [Mitsuike](https://github.com/SomaMitsuike), [Nakajima](https://github.com/Isamu-Nakajima) | 左同 |
-| 期日 | 12/7 | 12/7 | 12/7 | 12/7 | 12/20|
+| 期日 | 12/7 | 12/7 | 12/14 | 12/14 | 12/20|
 
 なお担当の作業が終わり次第,次に近い期日の作業を手伝うこととする
 
