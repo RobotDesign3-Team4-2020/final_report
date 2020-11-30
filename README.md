@@ -57,7 +57,6 @@ ex) タオルでハンドを拭く
 
 
 ### アルコールボトルの認識とノズル角度修正の方法    
- ※OpenCV(cv_bridgeによりopencvで使える形式へ変換)を利用
  <img src= "https://github.com/RobotDesign3-Team4-2020/interim_report/blob/master/img/picture16.png" width="400" >
  rectangle関数を用いて赤い円の探索(アルコールボトルの発見)
  <img src= "https://github.com/RobotDesign3-Team4-2020/interim_report/blob/master/img/picture17.png" width="400" >
