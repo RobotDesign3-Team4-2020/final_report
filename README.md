@@ -20,7 +20,7 @@
  こうしてcrane-x7くんは清潔なうんこくんと仲良く暮らしましたとさ
  <img src= "https://github.com/RobotDesign3-Team4-2020/interim_report/blob/master/img/picture6.png" width="400" >
  
- ### 前回の反省を活かして 
+ ### 中間発表までの反省を活かして 
 
 - メンバー間の連絡の取り合いが不足したことでそれぞれが担当するタスク量に差が生まれた   
        ⇨ 話し合いを密に行い報告を欠かさず行う,Backlogをこれまで以上に活用する  
