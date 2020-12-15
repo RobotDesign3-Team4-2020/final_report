@@ -50,7 +50,7 @@
 - 配置方法
 
 #### 実機の動かし方
-READMEに従ってください
+[READMEに従ってください](https://github.com/RobotDesign3-Team4-2020/crane_x7_/blob/R.kamioka/README.md)
 
 ### プログラム説明
 - test.cpp
