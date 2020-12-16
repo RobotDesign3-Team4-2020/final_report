@@ -54,7 +54,7 @@
 
 ### プログラム説明
 - test.cpp
-  - RealSenseで赤丸と黄色の長方形を検出
+  - RealSenseで黄色の長方形を検出
 - red_seach.py
   - test.cppのデータを受け取り、crane_x7を動かす
   
