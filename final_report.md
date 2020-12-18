@@ -33,7 +33,7 @@
 - RealSense
 - うんこのおもちゃ   
 - 据え置き型アルコールスプレー
-- マーカー(赤、黄色)
+- マーカー(黄色)
 
 ###  実行環境
 - ubuntu18.04
@@ -62,6 +62,7 @@
 [コメント付きソースコード](https://github.com/RobotDesign3-Team4-2020/crane_x7_/blob/R.kamioka/crane_x7_examples/scripts/red_search.py)
 
 ### 実演動画
+[![](http://img.youtube.com/vi/XUe6zGDWI2U/0.jpg)](http://www.youtube.com/watch?v=XUe6zGDWI2U "")
 
 ### 目標段階での開発スケジュール予定
 | 内容 |ノズルを判別して回すノード | うんこを移動して消毒するノード | タオルで拭く動作 |最終発表の資料作成 |
@@ -86,7 +87,7 @@
   - README作成
 - [Mitsuike](https://github.com/RobotDesign3-Team4-2020/crane_x7_/tree/mitsuike)
   - README作成
-- syu 
+- [Shu](https://github.com/shukouki)
   - RealSense受け取り
   - 実機動作確認
   - README作成
