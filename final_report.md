@@ -86,9 +86,11 @@
 | :--: | :-----------: | :-----------: |:-------------: |:-------------: |
 | 担当 |[Ikeda](https://github.com/ikeda-hitomi), [Sakamoto](https://github.com/Sakamoto-Takaya), [Kamioka](https://github.com/rlove1023), [Shu](https://github.com/shukouki)| 左同 | [Mitsuike](https://github.com/SomaMitsuike), [Nakajima](https://github.com/Isamu-Nakajima) | 左同 |
 | 期日 | 12/7 | 12/7 | 12/14 | 12/14 | 12/20|
-
+  
+<img src= "https://user-images.githubusercontent.com/71888687/102723088-1cd00300-4349-11eb-8ec0-9ca0031f6488.png" width="500" >
+  
 ### 実際の進捗
-　- アルコールのノズルの角度の認識
+  - アルコールのノズルの角度の認識
   - ウンコの位置の認識
   - ウンコをノズルの先に移動させる動作
   - アルコールボトルのボタンをプッシュする動作
@@ -99,13 +101,19 @@
   - README作成
   - コードにコメント追加、インデント修正
   - コードの体裁の調整
+  - 使えそうな関数の調査
+  - 情報収集
 - [上岡](https://github.com/RobotDesign3-Team4-2020/crane_x7_/tree/R.kamioka)
   - README作成
   - コード作成
   - 実機動作確認・調整
+  - 使えそうな関数の調査
+  - 情報収集
 - [坂本](https://github.com/RobotDesign3-Team4-2020/crane_x7_/tree/T.sakamoto)
   - 昨年のプログラムのLICENSE取得
   - realsenseの使い方調査
+  - 使えそうな関数の調査
+  - 情報収集
   - 会議の段取りや話の進行
   - cmakelistへの変更、c++のコンパイル、実行方法の確認
 - [中島](https://github.com/RobotDesign3-Team4-2020/crane_x7_/tree/dev/nakajima)
@@ -113,12 +121,16 @@
 - [三ツ池](https://github.com/RobotDesign3-Team4-2020/crane_x7_/tree/mitsuike)
   - README作成
   - 使えそうな関数の調査
+  - 情報収集
+  - Backlogの管理
 - [朱](https://github.com/RobotDesign3-Team4-2020/crane_x7_/tree/R.kamioka)
   - README作成
   - realsenseの使い方調査
+  - 使えそうな関数の調査
   - 実機動作確認・調整
   - 動画撮影
   - 買い物
+  - 情報収集
   
 - [その他](https://github.com/RobotDesign3-Team4-2020/final_report/tree/master)
 
