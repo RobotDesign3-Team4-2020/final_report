@@ -45,6 +45,9 @@
   - 市販の据え置き型アルコールスプレー  
 <img src= "https://github.com/RobotDesign3-Team4-2020/interim_report/blob/master/img/img4.jpg" width="400">
 
+  アルコールスプレーのノズルには以下の画像のようにマーカーを付けます
+<img src="https://user-images.githubusercontent.com/70384485/102332471-76de6a80-3fcf-11eb-9a8e-3b5462a1ad7b.png" width="400px">
+
 - 配置方法
 <img src= "https://github.com/RobotDesign3-Team4-2020/interim_report/blob/master/img/img5.png" width="400">  
 <img src= "https://github.com/RobotDesign3-Team4-2020/interim_report/blob/master/img/img2.jpg" width="400">  
@@ -62,7 +65,13 @@
 [コメント付きソースコード](https://github.com/RobotDesign3-Team4-2020/crane_x7_/blob/R.kamioka/crane_x7_examples/scripts/red_search.py)
 
 ### 実演動画
-[![](http://img.youtube.com/vi/XUe6zGDWI2U/0.jpg)](http://www.youtube.com/watch?v=XUe6zGDWI2U "")
+[![](http://img.youtube.com/vi/XUe6zGDWI2U/0.jpg)](http://www.youtube.com/watch?v=XUe6zGDWI2U "実演動画１")
+
+　↑画像をクリックすると動画が再生されます
+
+[![](http://img.youtube.com/vi/HD80IjuEiw4/0.jpg)](http://www.youtube.com/watch?v=HD80IjuEiw4 "実演動画２")
+
+　↑画像をクリックすると動画が再生されます
 
 ### 目標段階での開発スケジュール予定
 | 内容 |ノズルを判別して回すノード | うんこを移動して消毒するノード | タオルで拭く動作 |最終発表の資料作成 |
@@ -80,21 +89,24 @@
   - コードにコメント追加、インデント修正
   - コードの体裁の調整
 - [上岡](https://github.com/RobotDesign3-Team4-2020/crane_x7_/tree/R.kamioka)
+  - README作成
   - コード作成
-  - 実機動作確認
+  - 実機動作確認・調整
 - [坂本](https://github.com/RobotDesign3-Team4-2020/crane_x7_/tree/T.sakamoto)
   - 昨年のプログラムのLICENSE取得
   - realsenseの使い方調査
   - 会議の段取りや話の進行
-  - cmakelistへの変更、c+のコンパイル、実行方法の確認
+  - cmakelistへの変更、c++のコンパイル、実行方法の確認
 - [中島](https://github.com/RobotDesign3-Team4-2020/crane_x7_/tree/dev/nakajima)
   - 情報収集
 - [三ツ池](https://github.com/RobotDesign3-Team4-2020/crane_x7_/tree/mitsuike)
   - README作成
   - 使えそうな関数の調査
-- [朱](https://github.com/shukouki)
+- [朱](https://github.com/RobotDesign3-Team4-2020/crane_x7_/tree/R.kamioka)
+  - README作成
   - realsenseの使い方調査
-  - 実機動作確認、動画撮影
+  - 実機動作確認・調整
+  動画撮影
   - 買い物
   
 - [その他](https://github.com/RobotDesign3-Team4-2020/final_report/tree/master)
