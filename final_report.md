@@ -21,8 +21,7 @@
  
 ### 何が面白い？  
 - うんこが消毒される  
-- うんこは消毒されるものなのか
-- というか他のもの消毒したら実用的
+- うんこの判別
 
 ### 使用した道具  
 - crane_x7    
@@ -48,6 +47,8 @@
 <img src= "https://github.com/RobotDesign3-Team4-2020/interim_report/blob/master/img/img4.jpg" width="400">
 
 - 配置方法
+<img src= "https://github.com/RobotDesign3-Team4-2020/interim_report/blob/master/img/img5.png" width="400">  
+<img src= "https://github.com/RobotDesign3-Team4-2020/interim_report/blob/master/img/img2.jpg" width="400">  
 
 #### 実機の動かし方
 [READMEに従ってください](https://github.com/RobotDesign3-Team4-2020/crane_x7_/blob/R.kamioka/README.md)
@@ -95,6 +96,7 @@
 - [その他](https://github.com/RobotDesign3-Team4-2020/final_report/tree/master)
 
 ### まとめ
+- うんこに消毒することは成功した
 - 環境構築に時間がかかり、各ノード作成に時間を割けなかった
 - Github/slack/backlogなどのサービスをうまく利用できなかった
   - 各々の進捗を把握できなかった
