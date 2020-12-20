@@ -37,6 +37,8 @@
 - ubuntu18.04
 - ROS Melodic Morenia
 
+###  変更した点
+
 ### 実機操作説明
 
 #### モデル配置
