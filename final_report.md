@@ -75,24 +75,24 @@
  
 
 ### 最終的に担当したもの及び活動場所
-- [Ikeda](https://github.com/RobotDesign3-Team4-2020/crane_x7_/tree/ikeda)
+- [池田](https://github.com/RobotDesign3-Team4-2020/crane_x7_/tree/ikeda)
   - README作成
   - コードにコメント追加、インデント修正
   - コードの体裁の調整
-- [Kamioka](https://github.com/RobotDesign3-Team4-2020/crane_x7_/tree/R.kamioka)
+- [上岡](https://github.com/RobotDesign3-Team4-2020/crane_x7_/tree/R.kamioka)
   - コード作成
   - 実機動作確認
-- [Sakamoto](https://github.com/RobotDesign3-Team4-2020/crane_x7_/tree/T.sakamoto)
+- [坂本](https://github.com/RobotDesign3-Team4-2020/crane_x7_/tree/T.sakamoto)
   - 昨年のプログラムのLICENSE取得
   - realsenseの使い方調査
   - 会議の段取りや話の進行
   - cmakelistへの変更、c+のコンパイル、実行方法の確認
-- [Nakazima](https://github.com/RobotDesign3-Team4-2020/crane_x7_/tree/dev/nakajima)
+- [中島](https://github.com/RobotDesign3-Team4-2020/crane_x7_/tree/dev/nakajima)
   - 情報収集
-- [Mitsuike](https://github.com/RobotDesign3-Team4-2020/crane_x7_/tree/mitsuike)
+- [三ツ池](https://github.com/RobotDesign3-Team4-2020/crane_x7_/tree/mitsuike)
   - README作成
   - 使えそうな関数の調査
-- [Shu](https://github.com/shukouki)
+- [朱](https://github.com/shukouki)
   - realsenseの使い方調査
   - 実機動作確認、動画撮影
   - 買い物
@@ -104,4 +104,3 @@
 - 環境構築に時間がかかり、各ノード作成に時間を割けなかった
 - Github/slack/backlogなどのサービスをうまく利用できなかった
   - 各々の進捗を把握できなかった
-- 作業量に偏りができてしまった
