@@ -78,20 +78,25 @@
 ### 最終的に担当したもの及び活動場所
 - [Ikeda](https://github.com/RobotDesign3-Team4-2020/crane_x7_/tree/ikeda)
   - README作成
+  - コードにコメント追加、インデント修正
+  - コードの体裁の調整
 - [Kamioka](https://github.com/RobotDesign3-Team4-2020/crane_x7_/tree/R.kamioka)
-  - ノズルを判別して回すノード作成
-  - README作成
+  - コード作成
+  - 実機動作確認
 - [Sakamoto](https://github.com/RobotDesign3-Team4-2020/crane_x7_/tree/T.sakamoto)
   - 昨年のプログラムのLICENSE取得
-  - README作成
+  - realsenseの使い方調査
+  - 会議の段取りや話の進行
+  - cmakelistへの変更、c+のコンパイル、実行方法の確認
 - [Nakazima](https://github.com/RobotDesign3-Team4-2020/crane_x7_/tree/dev/nakajima)
-  - README作成
+  - 情報収集
 - [Mitsuike](https://github.com/RobotDesign3-Team4-2020/crane_x7_/tree/mitsuike)
   - README作成
+  - 使えそうな関数の調査
 - [Shu](https://github.com/shukouki)
-  - RealSense受け取り
-  - 実機動作確認
-  - README作成
+  - realsenseの使い方調査
+  - 実機動作確認、動画撮影
+  - 買い物
   
 - [その他](https://github.com/RobotDesign3-Team4-2020/final_report/tree/master)
 
