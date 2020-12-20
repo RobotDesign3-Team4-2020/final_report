@@ -64,7 +64,7 @@
 - test.cpp
   - RealSenseで黄色の長方形/💩を検出
   
-<img src="https://github.com/RobotDesign3-Team4-2020/final_report/blob/master/%E7%84%A1%E9%A1%8C%E3%81%AE%E3%83%97%E3%83%AC%E3%82%BC%E3%83%B3%E3%83%86%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%20(6).png" width=600">
+<img src="https://github.com/RobotDesign3-Team4-2020/final_report/blob/master/%E7%84%A1%E9%A1%8C%E3%81%AE%E3%83%97%E3%83%AC%E3%82%BC%E3%83%B3%E3%83%86%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%20(6).png" width="600">
 
 - red_seach.py
   - test.cppのデータを受け取り、座標へ変換後、💩をアルコールの前まで動かす一連の動作
