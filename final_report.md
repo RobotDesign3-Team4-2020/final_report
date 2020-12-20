@@ -54,9 +54,9 @@
 
 ### プログラム説明
 - test.cpp
-  - RealSenseで黄色の長方形を検出
+  - RealSenseで黄色の長方形/💩を検出
 - red_seach.py
-  - test.cppのデータを受け取り、crane_x7を動かす
+  - test.cppのデータを受け取り、座標へ変換後、💩をアルコールの前まで動かす一連の動作
   
 詳しくは以下をご覧下さい。  
 [コメント付きソースコード](https://github.com/RobotDesign3-Team4-2020/crane_x7_/blob/R.kamioka/crane_x7_examples/scripts/red_search.py)
