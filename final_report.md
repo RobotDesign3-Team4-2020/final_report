@@ -17,7 +17,6 @@
  <img src= "https://github.com/RobotDesign3-Team4-2020/interim_report/blob/master/img/picture5.png" width="400" >
  わーい！綺麗になったよ！
  こうしてcrane-x7くんは清潔なうんこくんと仲良く暮らしましたとさ
- <img src= "https://github.com/RobotDesign3-Team4-2020/interim_report/blob/master/img/picture6.png" width="400" >
  
 ### 何が面白い？  
 - うんこが消毒される  
