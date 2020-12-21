@@ -5,7 +5,7 @@
 
 
 ## 問題点と修正
-- ノズルを回転させるのが難しい
+- ノズルを回転させる場合アームに負担がかかる
 　　→ノズルの先端を画像認識で探させて、そこへウンコを運び消毒する
   
 <img src="https://github.com/RobotDesign3-Team4-2020/final_report/blob/master/%E7%84%A1%E9%A1%8C%E3%81%AE%E3%83%97%E3%83%AC%E3%82%BC%E3%83%B3%E3%83%86%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%20(3).png" width="400">
