@@ -16,17 +16,16 @@
 ## 環境構築
 ### 必要な道具
 - crane_x7    
-- ubuntu18.04(WSL/Desktop)  
-  - Gazebo  
-  - rviz  
-- OpenCV  
 - RealSense
 - うんこのおもちゃ   
 - 据え置き型アルコールスプレー
 - 黄色のマーカー(折り紙を使用)
 
 ###  実行環境
-- ubuntu18.04
+- ubuntu18.04(WSL/Desktop)  
+ - Gazebo  
+ - rviz  
+- OpenCV 
 - ROS Melodic Morenia
 
 ### モデル配置
