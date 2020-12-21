@@ -4,7 +4,7 @@
 - realsenseの画像認識を用いてウンコを探し、ノズルを回転させて消毒する
 
 ## 手段
-### アルコールボトルの認識とノズル角度修正の方法    
+### 目標段階のアルコール検出方法
  <img src= "https://github.com/RobotDesign3-Team4-2020/interim_report/blob/master/img/picture16.png" width="400" >
  
  cv_bridgeを用いてopenvで画像が扱える形式に変換
