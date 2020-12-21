@@ -121,3 +121,12 @@
 - 環境構築に時間がかかり、各ノード作成に時間を割けなかった
 - Github/slack/backlogなどのサービスをうまく利用できなかった
   - 各々の進捗を把握できなかった
+
+### 参考
+中間発表について
+- [目標記載ページ](https://github.com/RobotDesign3-Team4-2020/interim_report/blob/master/target.md)
+- [目標リポジトリ](https://github.com/RobotDesign3-Team4-2020/crane_x7_ros.git)  
+- [発表資料](https://github.com/RobotDesign3-Team4-2020/interim_report/blob/master/interim_report.md)
+
+最終発表について
+- [目標記載ページ](https://github.com/RobotDesign3-Team4-2020/final_report/blob/master/target.md)
