@@ -43,11 +43,11 @@
 <img src= "https://github.com/RobotDesign3-Team4-2020/interim_report/blob/master/img/img5.png" width="400">  
 <img src= "https://github.com/RobotDesign3-Team4-2020/interim_report/blob/master/img/img2.jpg" width="400">  
 
-### 実機の動かし方
+## 実機の動かし方
 (READMEから転載して説明してもいいと思います)
 [READMEに従ってください](https://github.com/RobotDesign3-Team4-2020/crane_x7_/blob/R.kamioka/README.md)
 
-### プログラム説明
+## プログラム説明
 (プログラムの解説をお願いします。ノード毎に何をするノードなのか、どの部分で何をしてるのか一言描いて貰えば大丈夫だと思います)
 - test.cpp
   - RealSenseで黄色の長方形/💩を検出
@@ -60,7 +60,7 @@
 詳しくは以下をご覧下さい。  
 [コメント付きソースコード](https://github.com/RobotDesign3-Team4-2020/crane_x7_/blob/R.kamioka/crane_x7_examples/scripts/red_search.py)
 
-### 実演動画
+## 実演動画
 [![](http://img.youtube.com/vi/XUe6zGDWI2U/0.jpg)](http://www.youtube.com/watch?v=XUe6zGDWI2U "実演動画１")
 
 　↑画像をクリックすると動画が再生されます
@@ -69,6 +69,7 @@
 
 　↑画像をクリックすると動画が再生されます
 
+## 作業フローと分担
 ### 目標段階での開発スケジュール予定
 | 内容 |ノズルを判別して回すノード | うんこを移動して消毒するノード | タオルで拭く動作 |最終発表の資料作成 |
 | :--: | :-----------: | :-----------: |:-------------: |:-------------: |
@@ -122,7 +123,7 @@
   
 - [資料作成](https://github.com/RobotDesign3-Team4-2020/final_report/tree/master)
 
-### まとめ
+## まとめ
 - 目標であったウンコの消毒には成功した
 - 追加でウンコの位置も認識させることができた
 - 環境構築に時間がかかり、各ノード作成に時間を割けなかった
