@@ -77,12 +77,6 @@
   
 <img src= "https://user-images.githubusercontent.com/71888687/102723088-1cd00300-4349-11eb-8ec0-9ca0031f6488.png" width="800" >
   
-### 実際の進捗
-  - アルコールのノズルの角度の認識
-  - ウンコの位置の認識
-  - ウンコをノズルの先に移動させる動作
-  - アルコールボトルのボタンをプッシュする動作
- 
 
 ### 最終的に担当したもの及び活動場所
 - [池田](https://github.com/RobotDesign3-Team4-2020/crane_x7_/tree/ikeda)
