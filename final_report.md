@@ -44,11 +44,10 @@
 <img src= "https://github.com/RobotDesign3-Team4-2020/interim_report/blob/master/img/img2.jpg" width="400">  
 
 ## 実機の動かし方
-(READMEから転載して説明してもいいと思います)
+
 [READMEに従ってください](https://github.com/RobotDesign3-Team4-2020/crane_x7_/blob/R.kamioka/README.md)
 
 ## プログラム説明
-(プログラムの解説をお願いします。ノード毎に何をするノードなのか、どの部分で何をしてるのか一言描いて貰えば大丈夫だと思います)
 - test.cpp
   - RealSenseで黄色の長方形/💩を検出
   
@@ -76,7 +75,7 @@
 | 担当 |[Ikeda](https://github.com/ikeda-hitomi), [Sakamoto](https://github.com/Sakamoto-Takaya), [Kamioka](https://github.com/rlove1023), [Shu](https://github.com/shukouki)| 左同 | [Mitsuike](https://github.com/SomaMitsuike), [Nakajima](https://github.com/Isamu-Nakajima) | 左同 |
 | 期日 | 12/7 | 12/7 | 12/14 | 12/14 | 12/20|
   
-<img src= "https://user-images.githubusercontent.com/71888687/102723088-1cd00300-4349-11eb-8ec0-9ca0031f6488.png" width="500" >
+<img src= "https://user-images.githubusercontent.com/71888687/102723088-1cd00300-4349-11eb-8ec0-9ca0031f6488.png" width="800" >
   
 ### 実際の進捗
   - アルコールのノズルの角度の認識
