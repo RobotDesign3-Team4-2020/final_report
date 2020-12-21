@@ -23,8 +23,8 @@
 
 ###  実行環境
 - ubuntu18.04(WSL/Desktop)  
- - Gazebo  
- - rviz  
+  - Gazebo  
+  - rviz  
 - OpenCV 
 - ROS Melodic Morenia
 
