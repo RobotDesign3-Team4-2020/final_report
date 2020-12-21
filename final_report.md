@@ -132,7 +132,7 @@
   - 買い物
   - 情報収集
   
-- [その他](https://github.com/RobotDesign3-Team4-2020/final_report/tree/master)
+- [資料作成](https://github.com/RobotDesign3-Team4-2020/final_report/tree/master)
 
 ### まとめ
 - 目標であったウンコの消毒には成功した
