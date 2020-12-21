@@ -4,6 +4,29 @@
 - realsenseの画像認識を用いてウンコを探し、ノズルを回転させて消毒する
 
 
+### アルコールボトルの認識とノズル角度修正の方法    
+ <img src= "https://github.com/RobotDesign3-Team4-2020/interim_report/blob/master/img/picture16.png" width="400" >
+ 
+ cv_bridgeを用いてopenvで画像が扱える形式に変換
+ 
+ cvtcolor関数を用いてカメラから得たRGB画像をHSVに変換する
+ inRange関数を用いて、作業したい色で２値化する
+ 
+ 輪郭を収納する配列を作りfindContours関数を用いて輪郭の集合を収納。  
+ 
+ アームを移動させて、円の輪郭を探してアルコールボトルを捜索
+ 
+ RGB画像から色を認識する関数(去年のもの)を使用して赤であるならば、アルコールの座標として記録
+ 
+ 赤い円の中心を測定する方法は未調査
+ 
+ <img src= "https://github.com/RobotDesign3-Team4-2020/interim_report/blob/master/img/picture17.png" width="400" >
+ <img src= "https://github.com/RobotDesign3-Team4-2020/interim_report/blob/master/img/picture18.png" width="400" >
+ <img src= "https://github.com/RobotDesign3-Team4-2020/interim_report/blob/master/img/picture13.png" width="400" >
+ ※moveIt!を使用して決められた角度まで手首を回す。
+
+
+
 ## 問題点と修正
 - ノズルを回転させる場合アームに負担がかかる<br>
 　　→ノズルの先端を画像認識で探させて、そこへウンコを運び消毒する
