@@ -1,28 +1,16 @@
 # 4班最終発表
-##  ロボットアームと消毒スプレーによるうんこの消毒
-### 動機
-  <img src= "https://user-images.githubusercontent.com/72371336/99922881-2f6d1180-2d76-11eb-8f82-2cab2aff505c.png" width="400" >
- 何か消毒するものないかなー
- <img src= "https://github.com/RobotDesign3-Team4-2020/interim_report/blob/master/img/picture10.png" width="400" >
- あ！うんこだ！消毒しなきゃ！
-  <img src= "https://github.com/RobotDesign3-Team4-2020/interim_report/blob/master/img/picture11.png" width="400" >
-  アルコールを探して...
-  <img src= "https://github.com/RobotDesign3-Team4-2020/interim_report/blob/master/img/picture12.png" width="400" >
- ノズルの向きを変えて！
- <img src= "https://github.com/RobotDesign3-Team4-2020/interim_report/blob/master/img/picture2.png" width="400" >
- 君こっち来いよ！
- <img src= "https://github.com/RobotDesign3-Team4-2020/interim_report/blob/master/img/picture3.png" width="400" >
- これで清潔なうんこになるんだ…
- <img src= "https://github.com/RobotDesign3-Team4-2020/interim_report/blob/master/img/picture4.png" width="400" >
- <img src= "https://github.com/RobotDesign3-Team4-2020/interim_report/blob/master/img/picture5.png" width="400" >
- わーい！綺麗になったよ！
- こうしてcrane-x7くんは清潔なうんこくんと仲良く暮らしましたとさ
- 
-### 何が面白い？  
-- うんこが消毒される  
-- うんこの判別
+###  目標
+- realsenseの画像認識を用いてウンコを探し、ノズルを回転させて消毒する
 
-### 使用した道具  
+### 問題点と修正
+- ノズルを回転させるのが難しい
+　　→ノズルの先端を画像認識で探させて、そこへウンコを運び消毒する
+  
+<img src="https://github.com/RobotDesign3-Team4-2020/final_report/blob/master/%E7%84%A1%E9%A1%8C%E3%81%AE%E3%83%97%E3%83%AC%E3%82%BC%E3%83%B3%E3%83%86%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%20(3).png" width="400">
+<img src="https://github.com/RobotDesign3-Team4-2020/final_report/blob/master/%E7%84%A1%E9%A1%8C%E3%81%AE%E3%83%97%E3%83%AC%E3%82%BC%E3%83%B3%E3%83%86%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%20(4).png" width="400">
+
+### 環境構築
+# 必要な道具
 - crane_x7    
 - ubuntu18.04(WSL/Desktop)  
   - Gazebo  
@@ -34,12 +22,12 @@
 - 黄色のマーカー(折り紙を使用)
 
 ###  実行環境
+
 - ubuntu18.04
 - ROS Melodic Morenia
 
 ###  変更した点
-<img src="https://github.com/RobotDesign3-Team4-2020/final_report/blob/master/%E7%84%A1%E9%A1%8C%E3%81%AE%E3%83%97%E3%83%AC%E3%82%BC%E3%83%B3%E3%83%86%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%20(3).png" width="400">
-<img src="https://github.com/RobotDesign3-Team4-2020/final_report/blob/master/%E7%84%A1%E9%A1%8C%E3%81%AE%E3%83%97%E3%83%AC%E3%82%BC%E3%83%B3%E3%83%86%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%20(4).png" width="400">
+
 
 ### 実機操作説明
 
