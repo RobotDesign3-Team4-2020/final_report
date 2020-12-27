@@ -106,7 +106,7 @@
   - 使えそうな関数の調査
   - 情報収集
   - 会議の段取りや話の進行
-  - cmakelistへの変更、c++のコンパイル、実行方法の確認  [(確認に用いたブランチ)](https://github.com/RobotDesign3-Team4-2020/crane_x7_/tree/master/crane_x7_examples)
+  - cmakelistへの変更、c++のコンパイル、実行方法の確認  [(確認に用いたブランチ)](https://github.com/RobotDesign3-Team4-2020/crane_x7_/tree/master/crane_x7_examples/scripts)
 - [中島](https://github.com/RobotDesign3-Team4-2020/crane_x7_/tree/dev/nakajima)
   - 情報収集
 - [三ツ池](https://github.com/RobotDesign3-Team4-2020/crane_x7_/tree/mitsuike)
